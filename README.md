@@ -1,2 +1,3 @@
-# directions
+# directions + jekyll + demo
+
 directions template

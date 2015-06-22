@@ -1,0 +1,7 @@
+/* Map styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+body { margin:0; padding:0; }
+
+/* id selector */
+#map { height: 180px; }
