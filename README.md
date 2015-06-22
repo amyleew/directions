@@ -1,3 +1,3 @@
-# directions + jekyll + demo
+# OSRM + Directions DEMO template
 
-directions template
+Made with [jekyll](http://jekyllrb.com/), [leaflet](http://leafletjs.com/), and [LRM](http://www.liedman.net/leaflet-routing-machine/).
